@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apache": "^0.1.0",
+    "cmatrix": "^0.4.0",
+    "nginx": "^1.0.8",
+    "serve": "^14.2.1"
+  }
+}
