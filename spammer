@@ -1,0 +1,9 @@
+#!/bin/bash
+# Put your grabify link here
+LINK=
+# Fucker upper
+for (( ; ; ))
+do
+wget $LINK -o /dev/null user-agent="-Crystals 69420 Grabify Fucker Upper"
+echo SPOOF EZZZ
+done
